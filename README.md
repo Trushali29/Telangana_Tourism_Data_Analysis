@@ -1,9 +1,9 @@
-# This project provide insights of telangana tourism
-The dataset publicly available through a great initiative by goverment of telangana. While the questions to do research on data was taken from codebasics resume project challenge site.
+# This project provides insights of telangana tourism
+The dataset is publicly available through a great initiative by goverment of telangana. While the questions to do research on data was taken from codebasics resume project challenge site.
 
 The dataset consists of domestic and foreign tourist data ranging from 2016 to 2019 having a separated csv files for each year.
 
-Below is a summary report of insights gain from dataset using python pandas, numpy modules.
+Below is a summary report of the same which is done using python pandas, numpy modules.
 
 **Q1. List down the top 10 districts that have the highest number of domestic visitors overall (2016-2019)?**
 
@@ -23,8 +23,7 @@ Hyderabad has the domestic ratio of 98.77% were only 1.23% are foreign tourist. 
 
 ![image](https://github.com/user-attachments/assets/a127ac7e-4922-469e-ba73-eb11be7bbaed)
 
-Other top 3 districts suchs as Adilabad, Bhadradri Kothagudem, Jagtial have higher doemstic ratio and very less foreign ratio.
-
+Other top 3 districts suchs as Adilabad, Bhadradri Kothagudem, Jagtial have higher domestic ratio and very less foreign ratio.
 
 **Q5. List the top & bottom 5 districts based on 'population to tourist footfall ratio' ratio in 2019?**
 
@@ -34,9 +33,10 @@ While districts with least tourist population are Kamareddy, Medchal, Ranga Redd
 
 **Q6. What will be the projected number of domestic and foreign tourist in Hyderabad in 2025 based on the growth rate from previous years ?**
 
-The estimated domestic tourist population number would be around 48,48,743 and for foreign tourist population it would be around 12,18,033.
+The estimated domestic tourist population number would be around 48,48,743 and for foreign tourist population it would be around 12,18,033 for Hyderabad in 2025.
 
-**Q7. Estimate the projected revenue for Hyderabad in 2025 based on average spend per tourist (approximate data)**
+**Q7. Estimate the projected revenue for Hyderabad in 2025 based on average spend per tourist (approximate data)
+Assume the goverment spends around 5,600.00 INR for Foreign Tourist and 1,200.00 INR for Domestic Tourist**
 
 As per the insight gained from the data an estimation revenue would be around 2,663 Core (INR) that can be spend for hyderabad in 2025. This would help in creating or improving infrastructures of tourist attraction sites also implementing safety and security measures for ease of travelling. This expenditure can also help in increasing the foreign tourist population. 
 
