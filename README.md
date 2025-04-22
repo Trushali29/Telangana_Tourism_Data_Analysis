@@ -36,7 +36,7 @@ While districts with least tourist population are Kamareddy, Medchal, Ranga Redd
 The estimated domestic tourist population number would be around 48,48,743 and for foreign tourist population it would be around 12,18,033 for Hyderabad in 2025.
 
 **Q7. Estimate the projected revenue for Hyderabad in 2025 based on average spend per tourist (approximate data)
-Assume the goverment spends around 5,600.00 INR for Foreign Tourist and 1,200.00 INR for Domestic Tourist**
+Assume the goverment spends around 5,600.00 INR for Foreign Tourist and 1,200.00 INR for Domestic Tourist.**
 
 As per the insight gained from the data an estimation revenue would be around 2,663 Core (INR) that can be spend for hyderabad in 2025. This would help in creating or improving infrastructures of tourist attraction sites also implementing safety and security measures for ease of travelling. This expenditure can also help in increasing the foreign tourist population. 
 
